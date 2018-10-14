@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+
+.card{
+  height: 400px;
+  overflow:scroll;
+  margin: 2px
+}
